@@ -29,7 +29,7 @@ Code 7: disconnect
 App requires JRE 11.
 
 ```sh
-cd 471term\out\artifacts\471term_jar
+cd out\artifacts\471term_jar
 java -jar 471term.jar
 ```
 or build with your IDE
